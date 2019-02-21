@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+.text-center{
+  font-family:fantasy;
+
+
+=======
+h1{color: blue;}
+body{
+  background-color: yellow;
+}
+p{
+  font-size:100px;
+  color:green;
+  font-style: oblique;
+}
+
+.left{
+  length: 20px;
+>>>>>>> 7b8e6caee4ab9b8118a74d2785933b92cb6e201a
+}
