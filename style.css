@@ -4,15 +4,26 @@ font-size: 500%;
 font-family: "cambria";
 text-shadow: 2px 2px;
 }
- .signup {
-text-align: right;
 
+
+#signup{
+  float: right;
 }
-{
-  i class="fab fa-twitter"
-opacity: 0.75;
-color: rgba(0, 0, 0, 0.75);
- -webkit-filter: blur(2px);
- -moz-filter: blur(2px);
- filter: blur(2px);
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+.btn-success{
+  text-align: center;
+=======
+.bgi{
+  background-image:url("background.jpg");
+>>>>>>> e5db3c78180b1c164612c946eaf8b54722ff5099
+=======
+.bgi{
+  background-image:url("background.jpg");
+>>>>>>> 12b3853e93452bd02a74891c1409477aa485d8a9
 }
+
+  .bg2{
+    background-image: url("images.jpg");
+  }
