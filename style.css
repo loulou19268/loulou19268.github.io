@@ -4,14 +4,17 @@ font-size: 500%;
 font-family: "cambria";
 text-shadow: 2px 2px;
 }
+<<<<<<< HEAD
  .signup {
-text-align: right;
 
-}
-.bgi{
-  background-image:url("background.jpg");
+=======
+>>>>>>> a8a4792bfb3013503dfbf99a2812251b758a93bd
+
+
+#signup{
+  float: right;
 }
 
-  .bg2{
-    background-image: url("images.jpg");
-  }
+
+
+  
