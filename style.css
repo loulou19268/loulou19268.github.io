@@ -7,3 +7,8 @@ text-shadow: 2px 2px;
  .signup {
   float: right;
 }
+
+.backgroundAbout{
+    background: url(images.jpg);
+    background-size: cover;
+}
