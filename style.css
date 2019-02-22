@@ -9,19 +9,8 @@ text-shadow: 2px 2px;
 #signup{
   float: right;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-.btn-success{
-  text-align: center;
-=======
 .bgi{
   background-image:url("background.jpg");
->>>>>>> e5db3c78180b1c164612c946eaf8b54722ff5099
-=======
-.bgi{
-  background-image:url("background.jpg");
->>>>>>> 12b3853e93452bd02a74891c1409477aa485d8a9
 }
 
   .bg2{
